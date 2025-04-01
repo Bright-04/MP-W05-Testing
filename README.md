@@ -1,5 +1,5 @@
 # TO-DO Notes - Mobile HW5 Testing Assignment
-============================================================================
+=======================================================
 
 This project is a homework assignment for Advanced Android in Kotlin 05.1: Testing Basics.
 
